@@ -30,6 +30,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    background-color: aquamarine;
 }
 main{
 flex: 1;
@@ -38,6 +39,16 @@ flex: 1;
 
 }
 
+
+.cabecalho-link{
+    color:aliceblue
+
+}
+h1{
+
+color: aliceblue;
+
+}
 
 
 
